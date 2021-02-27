@@ -1,5 +1,6 @@
 # AIChem
 ![AIChem](/resource/face.png)
+
 智能化学在线课程，张强，西北农林科技大学化学与药学院
 
 ## 1 教学目的
